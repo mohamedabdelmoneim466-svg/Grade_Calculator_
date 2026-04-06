@@ -1,0 +1,7 @@
+<Solution>
+  <Configurations>
+    <Platform Name="x64" />
+    <Platform Name="x86" />
+  </Configurations>
+  <Project Path="Grade_Calculator_/Grade_Calculator_.vcxproj" Id="de2bf3ab-8017-4c4e-a168-d6e7f369a048" />
+</Solution>
