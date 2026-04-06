@@ -1,5 +1,8 @@
-<img  alt="Screenshot 2026-04-06 213246" src="https://github.com/user-attachments/assets/e895f05c-fa5f-487c-9212-c99265c8fdef" />
+
 # Grade Calculator App 🎓
+
+<img  alt="Screenshot 2026-04-06 213246" src="https://github.com/user-attachments/assets/9bf32e56-141a-45f5-98ed-0573ee189e46" />
+
 
 A simple C++ console application that takes a student's score and determines their grade level based on specific ranges. This is my **third project** in my C++ learning journey.
 
